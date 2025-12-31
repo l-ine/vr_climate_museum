@@ -2,15 +2,16 @@
 
 > Extending an interactive climate simulation app by VR and game features
 
-
-NOTE:
-This repository is under construction. Additional project Details will be added in the following weeks and months.
-
-
 This project provides a Unity project of a virtual reality app to explore climate change simulations and solutions using the [En-ROADS climate solutions simulator](https://www.climateinteractive.org/en-roads/ "En-ROADS climate solutions simulator"). 
-It was developed as part of a master thesis project from May to December 2025, extending the existing [Interactive Climate Museum](https://github.com/cognitivemodeling/interactiveclimatemuseum "Interactive Climate Museum") project. The original project lets players explore the simulator, where adjusting the simulator's sliders results in changes of the environment surrounding the museum (sea, lake, city, trees, ...). The present VR app adds a community hall in which the player slips into a role and learns about and discusses different climate measures with a virtual town citizen.
+It was developed as part of a master thesis project from May to December 2025, extending the existing [Interactive Climate Museum](https://github.com/cognitivemodeling/interactiveclimatemuseum "Interactive Climate Museum") project. The original project lets players explore the simulator, where adjusting the simulator's sliders results in changes of the environment surrounding the museum (sea, lake, city, trees, etc). The present VR app adds a community hall in which the player slips into a role and learns about and discusses different climate measures with a virtual town citizen.
 
 The VR app was also tested among test users. Thus, this repository also includes a small dataset with ratings and open feedback, and a corresponding data analysis.
+
+> **NOTE**
+> 
+> This repository is under construction (as of Dec 2025). Additional project files are currently and will be added soon.
+> Most importantly, two relevant but large Unity scene files will soon be included in the repo.
+
 
 ## Usage
 
@@ -34,4 +35,4 @@ Run *analysis.py* to generate the descriptive statistics and figures from the da
 
 ## Acknowledgements
 
-Many thanks to ...
+
