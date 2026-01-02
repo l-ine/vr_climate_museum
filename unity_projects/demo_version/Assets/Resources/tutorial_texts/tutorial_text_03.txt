@@ -1,0 +1,4 @@
+Bewege mit deinem rechten Daumen den Joystick.
+Damit kannst du dich bewegen.
+Bewege mit deinem linken Daumen des Joystick. Damit kannst du dich drehen.
+Probiere es aus.

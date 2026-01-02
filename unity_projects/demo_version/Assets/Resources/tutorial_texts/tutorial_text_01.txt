@@ -1,0 +1,3 @@
+Drücke mit dem Zeigefinger auf die vordere Taste des Controllers.
+Damit kannst du Buttons anklicken.
+Probiere es hier aus:

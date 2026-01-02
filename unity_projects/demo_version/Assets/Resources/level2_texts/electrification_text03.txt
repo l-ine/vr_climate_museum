@@ -1,0 +1,4 @@
+Lass uns dazu die Förderung von E-Autos simulieren:
+
+1. Stelle den Regler "Elektrifizierung" im Abschnitt "Transport" so hoch wie möglich. 
+2. Dann schaue den Graph zu Entwaldung an. 
