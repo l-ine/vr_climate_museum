@@ -1,0 +1,6 @@
+Dazu kann man die Nutzung von Wärmepumpen und Solarpanels simulieren.  
+
+1. Wärmepumpen
+Sie gelten als sehr energieeffizient, da sie bereits vorhandene Wärmeenergie von außen (aus Luft, Boden und Wasser) mit elektrischer Energie verdichten und in Gebäude transportieren.
+
+Klicken Sie dazu den Button, um den Regler "Energieeffizienz" in der Rubrik "Gebäude und Industrie" so hoch wie möglich zu stellen.  

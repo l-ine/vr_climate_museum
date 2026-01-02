@@ -11,6 +11,8 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 *.log
+*.idea
+*/.idea/
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
@@ -97,3 +99,13 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+**/Library/**
+**/Temp/**
+**/StreamingAssets/**
+**/Oculus/**
+**/Builds/**
+**/Vuplex/**
+**/RootMotion/**
+**/Scenes/** # ignore all unity scene files because they are too large
+*.unity # ignore all unity scene files because they are too large

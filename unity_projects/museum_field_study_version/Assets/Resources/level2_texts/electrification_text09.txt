@@ -1,0 +1,5 @@
+Simuliere die Umstellung auf mehr erneuerbare Energien und weniger fossile Brennstoffe wie Kohle und Öl.  
+
+1. Stelle dazu den Regler "Erneuerbare Energien" so hoch wie möglich, um erneuerbare Energien wie Wind- und Solarenergie zu fördern. 
+2. Stelle den Regler "CO2-Preis" so hoch wie möglich, um fossile Energien teurer zu machen. 
+3. Schaue auf den Graph mit den CO2-Emissionen. Was sehen wir?

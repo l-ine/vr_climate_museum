@@ -1,0 +1,3 @@
+An der Wand hängt der En-ROADS-Klimastrategien-Simulator, der viele Klimamodelle vereint und veranschaulicht.
+Mit den Reglern lassen sich verschiedene Klimastrategien simulieren und in den Graphen zeigen sich dann die Auswirkungen auf unsere Umwelt.
+Außerdem kann man aus dem Fenster schauen und Auswirkungen direkt in und um unsere Stadt sehen.  

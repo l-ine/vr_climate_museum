@@ -1,0 +1,6 @@
+Dazu kann man die Nutzung von Wärmepumpen und Solarpanels simulieren.  
+
+2. Solarpanels
+Sie nutzen eine erneuerbare Energiequelle.
+
+Klicken Sie dazu den Button, um den Regler “Erneuerbare Energien” in der Rubrik "Energieversorgung" so hoch wie möglich zu stellen. 
