@@ -9,8 +9,8 @@ The VR app was also tested among test users. Thus, this repository also includes
 
 > **NOTE**
 > 
-> This repository is under construction (as of Dec 2025). Additional project files are currently and will be added soon.
-> Most importantly, two relevant but large Unity scene files will soon be included in the repo.
+> This repository is under construction and includes work in progress (as of Dec 2025). Additional project files are currently and will be added soon.
+> Most importantly, two relevant but very large Unity scene files can not be included in the repo because of their size, but can be made available by contacting the owner of the repository.
 
 
 ## Usage
