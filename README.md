@@ -10,13 +10,13 @@ The VR app was also tested among test users. Thus, this repository also includes
 > **NOTE**
 > 
 > This repository is under construction and includes work in progress (as of Dec 2025). Additional project files are currently and will be added soon.
-> Most importantly, two relevant but very large Unity scene files can not be included in the repo because of their size, but can be made available by contacting the owner of the repository.
+> Most importantly, two relevant but very large Unity scene files can not be included in the repo because of their size. Thus, the entire Unity Projects including these scene files can be found in [this zip folder](https://drive.google.com/file/d/1D0LUc_j3nl_sly4mw4WC6pPWtT24RVW9/view?usp=sharing).
 
 
 ## Usage
 
 In order to work with the code, you need the embedded browser provided by [Vuplex WebView](https://assetstore.unity.com/packages/tools/gui/3d-webview-for-android-and-ios-web-browser-135383). The project relies on this Unity plugin to integrate the En-ROADS simulator into the scene. 
-To request the temperature values used for the environmental changes, a [REST-API](https://drive.google.com/file/d/1AkiMiauTpfZKjk5UCfSSLlkWKQ4CqcD9/view?usp=sharing) is used as an electron-app. To work with the code, you need the [built electron-app](https://drive.google.com/file/d/1fb9Moa3H0JLHRSI67X5-9IaIlz7EVNWy/view?usp=sharing) in the Unity project folder *Assets/StreamingAssets*.
+To request the temperature values used for the environmental changes, a [REST-API](https://drive.google.com/file/d/1AkiMiauTpfZKjk5UCfSSLlkWKQ4CqcD9/view?usp=sharing) is used as an electron-app. To work with the code, you need the [built electron-app](https://drive.google.com/file/d/1Q9XenNuTGrysKoq26_SSv0dYxIJ1uQ7X/view?usp=sharing) in the Unity project folder *Assets/StreamingAssets*.
 To map the custom 3D avatar models to the VR controllers, the [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290 "Final IK plugin") plugin is used.
 
 The entire project was developed on *Windows 11* systems for *Meta Quest 3* VR headsets.
