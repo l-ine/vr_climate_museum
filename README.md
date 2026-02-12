@@ -9,7 +9,7 @@ The VR app was also tested among test users. Thus, this repository also includes
 
 > **NOTE**
 > 
-> This repository will still be updated (as of Feburary 2025).
+> This repository will still be updated (as of February 2025).
 > Currently, two relevant but very large Unity scene files can not be included in the repo because of their size. Thus, both Unity projects including these scene files can also be found in [this zip folder](https://drive.google.com/file/d/1D0LUc_j3nl_sly4mw4WC6pPWtT24RVW9/view?usp=sharing).
 
 
