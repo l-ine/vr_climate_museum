@@ -9,8 +9,8 @@ The VR app was also tested among test users. Thus, this repository also includes
 
 > **NOTE**
 > 
-> This repository is under construction and includes work in progress (as of Dec 2025). Additional project files are currently and will be added soon.
-> Most importantly, two relevant but very large Unity scene files can not be included in the repo because of their size. Thus, the entire Unity Projects including these scene files can be found in [this zip folder](https://drive.google.com/file/d/1D0LUc_j3nl_sly4mw4WC6pPWtT24RVW9/view?usp=sharing).
+> This repository will still be updated (as of Feburary 2025).
+> Currently, two relevant but very large Unity scene files can not be included in the repo because of their size. Thus, both Unity projects including these scene files can also be found in [this zip folder](https://drive.google.com/file/d/1D0LUc_j3nl_sly4mw4WC6pPWtT24RVW9/view?usp=sharing).
 
 
 ## Usage
